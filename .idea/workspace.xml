@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3eb25b6-c35b-4511-baad-af9d481c221d" name="Default" comment="" />
+    <list default="true" id="a3eb25b6-c35b-4511-baad-af9d481c221d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend work/src/practice2.java" afterPath="$PROJECT_DIR$/backend work/src/practice2.java" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +38,10 @@
         <entry file="file://$PROJECT_DIR$/backend work/src/practice2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="59" lean-forward="false" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+              <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
               <folding>
                 <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -706,7 +708,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501614064778</updated>
-      <workItem from="1501614066370" duration="9540000" />
+      <workItem from="1501614066370" duration="10003000" />
     </task>
     <task id="LOCAL-00001" summary="changes done">
       <created>1501614493081</created>
@@ -796,7 +798,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9540000" />
+    <option name="totallyTimeSpent" value="10003000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -964,10 +966,10 @@
     <entry file="file://$PROJECT_DIR$/backend work/src/practice2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="59" lean-forward="false" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
           <folding>
             <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
           </folding>
         </state>
       </provider>
