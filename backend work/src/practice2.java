@@ -4,5 +4,5 @@
 public class practice2 {
 
     public static void main(String [] args){
-        System.out.println("fofi");
+        System.out.println("My first Github practice commit");
     }}
